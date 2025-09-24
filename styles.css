@@ -10,7 +10,12 @@
 	height: 150px;
 	background: #000000;
 }
-.hello-accio{
+.hello-accio  p{
+		color: white;
+	left margin:32px;
+	padding on all sides: 10px;
+}
+ .hello-accio p{
 		color: white;
 	left margin:32px;
 	padding on all sides: 10px;
